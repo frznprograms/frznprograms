@@ -10,14 +10,15 @@ In this repo, you will find 3 main repos:
 - SkillsFuture Internship 2024: A compilatiom of the code I used mainly to experiment with machine learning, deep learning and using LLMs through API calls during my internship with SkillsFuture's Lifelong Learning Institute in 2024
 
 ## Technical Skills 💻 ##
-- Programming languages: Python, SQL, Java
+- Programming languages: Python, SQL, R
 - Technical knowledge:
   - Machine learning with scikit-learn
   - Deep Learning with PyTorch
   - Open-source APIs (mainly ChatGPT)
+  - Data Cleaning and Visualisation (R and Python)
 
-## Interests and Hobbies 🥊 ##
-- MMA (Mixed-Martial Arts)
+## Interests and Hobbies 🥋 ##
+- BJJ
 - Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battelfront, God of War 2018, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)
 - Browsing the Apple store to look at products I wish I could have
 - Watches and Timepieces
