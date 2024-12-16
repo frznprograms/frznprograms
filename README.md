@@ -19,7 +19,7 @@ In this repo, you will find 3 main repos:
 
 ## Interests and Hobbies 🥋 ##
 - BJJ
-- Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battelfront, God of War 2018, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)
+- Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battlefront, God of War 2018, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)
 - Browsing the Apple store to look at products I wish I could have
 - Watches and Timepieces
 - Spending time with my friends!
