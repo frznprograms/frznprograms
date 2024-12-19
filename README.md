@@ -2,12 +2,10 @@ Hi there 👋, I am
 # frznprograms #
 (read as frozone programs)
 
-This is my repo page, where I document the projects I have worked on. 
-
-In this repo, you will find 3 main repos: 
+Here are my repos: 
 - Coding Projects: A few random projects I embarked on to enhance or practice my skills
 - NTUC Internship 2023: A compilation of the code I used mainly for EDA (Exploratory Data Analysis) during my internship with NTUC-ARU in 2023
-- SkillsFuture Internship 2024: A compilatiom of the code I used mainly to experiment with machine learning, deep learning and using LLMs through API calls during my internship with SkillsFuture's Lifelong Learning Institute in 2024
+- SkillsFuture Internship 2024: A compilatiom of the code I used mainly to experiment with machine learning, deep learning and using LLMs through their APIs during my internship with SkillsFuture Singapore in 2024
 - trainingwheels: a private repo for now, as it is a work in progress
 
 ## Technical Skills 💻 ##
