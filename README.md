@@ -13,13 +13,13 @@ Here is a brief overview of my repos:
 - Programming languages: Python, SQL, R
 - Technical knowledge:
   - Machine learning with scikit-learn
-  - Deep Learning with PyTorch
+  - Deep Learning with PyTorch, Tensorflow
   - Open-source APIs (mainly ChatGPT)
   - Data Cleaning and Visualisation (R and Python)
 
 ## Interests and Hobbies 🥋 ##
 - BJJ
-- Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battlefront, God of War 2018, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)
+- Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battlefront, God of War 2018, God of War Ragnarök, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)
 - Browsing the Apple store to look at Macs I wish I could own
 - Watches and Timepieces
 - Spending time with my friends
