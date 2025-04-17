@@ -1,44 +1,15 @@
-Hi there 👋, I am 
-# frznprograms #
-(read as frozone programs)
+# 💫 About Me:
+Hi there 👋, I am <br># frznprograms #<br>(read as frozone programs)<br><br>Here is a brief overview of my repos: <br>- Projects: A few random projects I embarked on to enhance or practice my skills<br>- NTUC Internship 2023: A compilation of the code I used mainly for EDA (Exploratory Data Analysis) during my internship with NTUC-ARU in 2023<br>- SkillsFuture Internship 2024: A compilatiom of the code I used mainly to experiment with machine learning, deep learning and using LLMs through their APIs during my internship with SkillsFuture Singapore in 2024<br>- trainingwheels: a private repo for now, as it is a work in progress<br>- CS3244: A compilation of code used for the Machine Learning module I took in school (it is private to ensure confidentiality of my work as it is a recurring course)<br><br>## Technical Skills 💻 ##<br>- Programming languages: Python, SQL, R<br>- Technical knowledge:<br>  - Machine learning with scikit-learn<br>  - Deep Learning with PyTorch, Tensorflow<br>  - Open-source APIs (mainly ChatGPT)<br>  - Data Cleaning and Visualisation (R and Python)<br><br>## Interests and Hobbies 🥋 ##<br>- BJJ<br>- Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battlefront, God of War 2018, God of War Ragnarök, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)<br>- Browsing the Apple store to look at Macs I wish I could own<br>- Watches and Timepieces<br>- Spending time with my friends<br><br>## How to reach me 📫 ##<br>- My personal email address: shanevbh@gmail.com<br>- My LinkedIn: www.linkedin.com/in/shane-bharathan
 
-Here is a brief overview of my repos: 
-- Projects: A few random projects I embarked on to enhance or practice my skills
-- NTUC Internship 2023: A compilation of the code I used mainly for EDA (Exploratory Data Analysis) during my internship with NTUC-ARU in 2023
-- SkillsFuture Internship 2024: A compilatiom of the code I used mainly to experiment with machine learning, deep learning and using LLMs through their APIs during my internship with SkillsFuture Singapore in 2024
-- trainingwheels: a private repo for now, as it is a work in progress
-- CS3244: A compilation of code used for the Machine Learning module I took in school (it is private to ensure confidentiality of my work as it is a recurring course)
 
-## Technical Skills 💻 ##
-- Programming languages: Python, SQL, R
-- Technical knowledge:
-  - Machine learning with scikit-learn
-  - Deep Learning with PyTorch, Tensorflow
-  - Open-source APIs (mainly ChatGPT)
-  - Data Cleaning and Visualisation (R and Python)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=frznprograms&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=frznprograms&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frznprograms&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Interests and Hobbies 🥋 ##
-- BJJ
-- Video Games (I don't really have much of a preference for any genre, some of my favourite games include: Star Wars Battlefront, God of War 2018, God of War Ragnarök, and just to prove that I really don't have much of a specific taste, I like Cities Skylines a lot)
-- Browsing the Apple store to look at Macs I wish I could own
-- Watches and Timepieces
-- Spending time with my friends
+---
+[![](https://visitcount.itsvg.in/api?id=frznprograms&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## How to reach me 📫 ##
-- My personal email address: shanevbh@gmail.com
-- My LinkedIn: www.linkedin.com/in/shane-bharathan
-
-<!--
-**frznprograms/frznprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
