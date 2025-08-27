@@ -1,5 +1,5 @@
 ## Hi, I'm Shane. It's great to have you here.
-Data Scientist | ML Engineer | Programmer
+I enjoy building Machine Learning pipelines, learning new things, and creating tools that (hopefully) help developers.
 
 
 ### 🌐 Socials:
