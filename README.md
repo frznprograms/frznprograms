@@ -1,5 +1,6 @@
 ## Hi, I'm Shane. It's great to have you here.
-I enjoy building Machine Learning pipelines, learning new things, and creating tools that (hopefully) help developers.
+I enjoy building Machine Learning pipelines, learning new things, and creating tools that (hopefully) help developers solve real problems.
+I'm currently working on a word alignment model that can be extended to perform NER, and a comprehensive synthetic data generation tool.
 
 
 ### 🌐 Socials:
