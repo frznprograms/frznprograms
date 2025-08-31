@@ -2,7 +2,9 @@
 I enjoy building Machine Learning pipelines, learning new things, and creating tools that help developers and AI engineers solve real problems.
 I'm currently working on a word alignment model that can be extended to perform NER, and a comprehensive synthetic data generation tool.
 
+![Cool Pixel Jeff GIF](/Users/shaneryan_1/Downloads/pixel-jeff-where-s-my-supersuit.gif)
 
+Got the above GIF from Pixel Jeff – please give him your admiration: [https://pixeljeff1995.artstation.com](https://pixeljeff1995.artstation.com)
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shane-bharathan) 
