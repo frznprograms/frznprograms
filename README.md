@@ -2,7 +2,7 @@
 I enjoy building Machine Learning pipelines, learning new things, and creating tools that help developers and AI engineers solve real problems.
 I'm currently working on a word alignment model that can be extended to perform NER, and a comprehensive synthetic data generation tool.
 
-![alt text](https://cdna.artstation.com/p/assets/images/images/011/501/200/original/pixel-jeff-where-s-my-supersuit.gif?1529920217)
+![alt text](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 
 Got the above GIF from Pixel Jeff – please give him your admiration: [https://pixeljeff1995.artstation.com](https://pixeljeff1995.artstation.com)
 
