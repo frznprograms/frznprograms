@@ -1,9 +1,9 @@
 <h2 style="text-align:center;"> Hi, I'm Shane. It's great to have you here. </h2>
 I enjoy building Machine Learning pipelines, learning new things, and creating tools that help developers and AI engineers solve real problems.
 I'm currently working on a couple of things: 
-* A word alignment model that can be extended to perform NER;
-* a comprehensive synthetic data generation tool for language tasks;
-* and a mini-transformer for next-character prediction
+- A word alignment model that can be extended to perform NER;
+- a comprehensive synthetic data generation tool for language tasks;
+- and a mini-transformer for next-character prediction
 
 ![alt text](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
 
