@@ -11,11 +11,9 @@ Beyond these, I'm also learning 3 new programming languages for other fun develo
 
 <br>
 
-![alt text](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)
+![alt text](assets/intro.gif)
 
-Got the above GIF from Pixel Jeff – full credit goes to him for this artwork that I'm showcasing here.  
-Please visit the website for more of his work:  
-[https://pixeljeff1995.artstation.com](https://pixeljeff1995.artstation.com)
+<br>
 
 #### Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shane-bharathan)
