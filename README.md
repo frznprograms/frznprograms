@@ -11,7 +11,7 @@ Beyond these, I'm also learning 3 new programming languages for other fun develo
 
 <br>
 
-![alt text](assets/intro.mp4)
+[Click here!](assets/intro.mp4)
 
 Got the above GIF from Pixel Jeff – full credit goes to him for this artwork that I'm showcasing here.  
 Please visit the website for more of his work:  
