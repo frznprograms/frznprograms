@@ -1,21 +1,21 @@
 ## Hi, I'm Shane.
 
-I enjoy building Machine Learning pipelines, learning new things, and creating tools that help developers and AI engineers solve real problems.  
-I'm currently working on a couple of projects:
+I enjoy building Machine Learning and Data Pipelines, learning new things, and creating tools that help developers and AI engineers solve real problems.  
+I'm currently working on the following project(s):
 
-- A word alignment model that can be extended to perform NER  
-- A comprehensive synthetic data generation tool for language tasks  
-- A mini-transformer for next-character prediction  
+- Deep Learning for a Cyber Security use-case (for school)
+- Machine Learning development in Rust 
 
-Beyond these, I'm also learning 3 new programming languages for other fun development stuff: **Rust**, **Lua**, and **Golang**.
+Additionally, I'm in the midst of learning **Rust** for a modern approach to systems & low-level programming. 
 
 <br>
+See more of my work (including teamwork) in the following projects that were more successful overall: 
+- [ARC](https://github.com/frznprograms/ARC), which won 5th place at 2025 TikTok Hackathon Singapore
+- [inshaneity AI](https://github.com/frznprograms/mini-transformer), a deep learning approach to a classic next-character prediction problem
 
-[Click here!](assets/intro.mp4)
-
-Got the above GIF from Pixel Jeff – full credit goes to him for this artwork that I'm showcasing here.  
-Please visit the website for more of his work:  
-[https://pixeljeff1995.artstation.com](https://pixeljeff1995.artstation.com)
+<br>
+Please leave a star if you like what you find. Thank you!!
+<br>
 
 #### Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shane-bharathan)
