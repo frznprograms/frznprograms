@@ -9,12 +9,15 @@ I'm currently working on the following project(s):
 Additionally, I'm in the midst of learning **Rust** for a modern approach to systems & low-level programming. 
 
 <br>
-See more of my work (including teamwork) in the following projects that were more successful overall: 
+See more of my work (including teamwork) in the following projects that were more successful overall:
+
 - [ARC](https://github.com/frznprograms/ARC), which won 5th place at 2025 TikTok Hackathon Singapore
 - [inshaneity AI](https://github.com/frznprograms/mini-transformer), a deep learning approach to a classic next-character prediction problem
 
 <br>
+
 Please leave a star if you like what you find. Thank you!!
+
 <br>
 
 #### Contact me:
