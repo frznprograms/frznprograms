@@ -4,15 +4,14 @@ I enjoy building Machine Learning and Data Pipelines, learning new things, and c
 I'm currently working on the following project(s):
 
 - Deep Learning for a Cyber Security use-case (for school)
-- Machine Learning development in Rust 
-
-Additionally, I'm in the midst of learning **Rust** for a modern approach to systems & low-level programming. 
+- Rust for systems programming
+- Go for backend engineering
 
 <br>
 See more of my work (including teamwork) in the following projects that were more successful overall:
 
-- [ARC](https://github.com/frznprograms/ARC), which won 5th place at 2025 TikTok Hackathon Singapore
-- [inshaneity AI](https://github.com/frznprograms/mini-transformer), a deep learning approach to a classic next-character prediction problem
+- [ARC](https://github.com/frznprograms/ARC) , which won 5th place at 2025 TikTok Hackathon Singapore
+- [inshaneity AI](https://github.com/frznprograms/mini-transformer) , a deep learning approach to a classic next-character prediction problem
 
 <br>
 
